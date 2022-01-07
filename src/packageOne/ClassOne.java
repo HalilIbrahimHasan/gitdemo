@@ -13,9 +13,16 @@ public class ClassOne {
         System.out.println("This is new update on my local master branch");
         System.out.println("This is commit 5");
         System.out.println("Here is an update on remote master branch");
+<<<<<<< HEAD
         System.out.println("Here is a new commit 7 from Suheyp");
 
         System.out.println("Ibrahim settar");
+
+
+        System.out.println("Here is a new commit 7 from Suheyp";
+                           
+        System.out.println("Here is some updates");
+                           
 
     }
 

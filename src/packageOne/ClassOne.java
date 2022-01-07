@@ -24,6 +24,14 @@ public class ClassOne {
         System.out.println("Here is some updates");
                            
 
+          System.out.println("here is a new update");
+
+        System.out.println("Here is a second new update");
+
+
+       
+                           
+
     }
 
 

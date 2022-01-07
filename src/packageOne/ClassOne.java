@@ -9,6 +9,8 @@ public class ClassOne {
         System.out.println("Welcome everyone");
         System.out.println("This is Salesforce");
 
+        System.out.println("Hello everyone ");
+        System.out.println("Welcome todays session");
     }
 
 

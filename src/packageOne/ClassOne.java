@@ -19,7 +19,7 @@ public class ClassOne {
         System.out.println("Ibrahim settar");
 
 
-        System.out.println("Here is a new commit 7 from Suheyp";
+        System.out.println("Here is a new commit 7 from Suheyp");
                            
         System.out.println("Here is some updates");
                            
